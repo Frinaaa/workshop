@@ -36,7 +36,7 @@ const Product = () => {
                       {value.title}
                   </Typography>
                           <Typography variant="body2" sx={{ color: 'black' }}>
-                      {value.description}
+                       {value.description}
                   </Typography>
               </CardContent>
               <CardActions>
